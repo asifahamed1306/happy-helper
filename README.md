@@ -56,7 +56,7 @@
 
 # Getting Started
 1. Clone the Repository:
-git clone https://github.com/hajeeth/Happy_Helper.git
+git clone https://github.com/asifahamed1306/happy-helper.git
 
 2. Install Dependencies:
 npm install
