@@ -1,5 +1,5 @@
 # Happy_Helper: Your Companion for Mental Well-being
-## Collaborator : Aathifa Samsun A
+## Collaborator : Thasleema Nishrin M
 ## Overview
 *A comprehensive web application that offers resources and tools to aid users in managing their mental well-being and wellbeing. Created as part of CS-545, this application emphasizes user interaction, support, and education.*
 
